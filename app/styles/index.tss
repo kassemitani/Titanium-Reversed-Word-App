@@ -1,0 +1,33 @@
+".container": {
+	backgroundColor:"white",
+	layout: "vertical"
+}
+
+"#lblTitle":{
+	height: "90dp",
+}
+"#txtWord":{
+	
+	height: "40dp",
+	borderColor: "black",
+	width: "40%",
+	borderRadius: "9dp",
+}
+"Button": {
+	width: 190,
+	top: "10dp",
+	height: 40,
+	borderColor: "blue",
+	borderRadius: "6dp",
+	color: "blue"
+}
+
+"Label": {
+	top: "10dp",
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	}
+}

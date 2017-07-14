@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container">
+		<Label id="lblTitle" onClick="doClick">Reversed Word</Label>
+		<TextField id="txtWord"></TextField>
+		<Button onClick="submitTapped">Submit</Button>
+		<Label id="lblResult">Result</Label>
+		<Button onClick="copyTapped" >Copy to Clipboard</Button>
+	</Window>
+</Alloy>
